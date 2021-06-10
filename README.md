@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá 👋
+#### Sou Eduardo Almeida, e este é o repositório de projetos da Samtronic
 
 <!--
 **eduardo-samtronic/eduardo-samtronic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
